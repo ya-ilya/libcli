@@ -1,0 +1,27 @@
+### IDEA ###
+.idea
+
+### CMake ###
+.cmake
+Testing
+cmake-build-debug
+CMakeFiles
+_CPack_Packages
+CMakeCache.txt
+CPackConfig.cmake
+CPackSourceConfig.cmake
+cmake_install.cmake
+install_manifest.txt
+Makefile
+_deps
+lib
+
+### Other ###
+hs_err_*.log
+*.a
+*.so
+*.so.1
+*.lib
+*.dll
+*.pc
+*.pc.in
